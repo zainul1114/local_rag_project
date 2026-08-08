@@ -1,6 +1,6 @@
-## The Technical Stack Breakdown
+## The Technical Stack 
 
-Your application uses a modern, completely local, privacy-first AI architecture. Here is what each component is responsible for:
+The application uses a modern, completely local, privacy-first AI architecture. Here is what each component is responsible for:
 
 *   **Docker Compose (Infrastructure):** Acts as the backbone. It runs three isolated containers (Streamlit, Qdrant, Ollama) and networks them together so they can communicate internally on your machine without exposing data to the internet. It also mounts persistent volumes so your vector data and downloaded models survive reboots.
 *   **Streamlit & Python (Frontend):** The user interface. It handles user authentication (`streamlit-authenticator`), captures your text inputs, manages session states (like chat history), and streams the final output to your screen.
