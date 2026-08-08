@@ -1,0 +1,6 @@
+venv/
+.venv/
+__pycache__/
+vector_db/
+data/
+*.db

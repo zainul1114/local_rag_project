@@ -1,0 +1,14 @@
+credentials:
+  usernames:
+    admin:
+      email: admin@example.com
+      name: System Admin
+      password: $2b$12$LP.LogLEa/Jq6H3aGWOugu7awbnGw39T7nnBx6XAVX2rGeKiEu1tC
+    user1:
+      email: user1@example.com
+      name: Regular User
+      password: $2b$12$yVXUObZeHOtNHa8f.bFTRe9wjHWbzpXtHOioryvCUOEvJHcpD8ELa
+cookie:
+  expiry_days: 30
+  key: secure_signature_key
+  name: local_rag_cookie
