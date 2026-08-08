@@ -1,3 +1,6 @@
+# Enterprise AI Workspace
+
+![Enterprise AI Workspace UI](Screenshot_3.png)
 ## The Technical Stack 
 
 The application uses a modern, completely local, privacy-first AI architecture. Here is what each component is responsible for:
