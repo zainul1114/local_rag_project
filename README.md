@@ -47,4 +47,4 @@ To deploy the application, execute the following commands in your terminal:
     docker compose up -d
     ```
 4.  **Access the User Interface:**
-    Open your web browser and navigate to: [http://192.168.1.2:8501/](http://192.168.1.2:8501/)
+    Open your web browser and navigate to: [http://192.168.232.10:8501/](http://192.168.232.10:8501/)
